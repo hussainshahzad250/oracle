@@ -17,7 +17,7 @@ docker run -d -p 1521:1521 husssainshahzad/oracle:1.0
 
 
 For APEX user:
-docker run -d -p 1521:1521 -p 8080:8080 oracleinanutshell/oracle-xe-11g
+docker run -d -p 1521:1521 -p 8080:8080 husssainshahzad/oracle:1.0
 
 # Login http://localhost:8080/apex/apex_admin
 username: ADMIN
